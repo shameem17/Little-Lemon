@@ -1,5 +1,6 @@
 # Little-Lemon
-SwiftUI project. Coursera assessment for the course "Advanced Programming in Swift" taught by Meta 
+SwiftUI project. Coursera assessment for the course "Advanced Programming in Swift" taught by Meta <be>
+
 Home View
 ![Simulator Screenshot - iPhone 15 Pro - 2024-06-03 at 17 12 06](https://github.com/shameem17/Little-Lemon/assets/53037559/da062df4-8fb2-4bd1-bc95-8cb749d21e2b)
 
